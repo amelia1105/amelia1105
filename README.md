@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Amelia!  
 Pronouns: *she/her/hers*
 
-I'm a laboratory chemist turned software developer who loves to test, build, and debug code. My journey has taken me from the lab bench to the tech world, and I’m thrilled to keep learning and growing in this space!
+I'm a laboratory chemist turned developer who loves to test, build, and debug code. My journey has taken me from the lab bench to the tech world, and I’m thrilled to keep learning and growing in this space!
 
 
 ## 💻 What I Do
@@ -21,10 +21,10 @@ I'm a laboratory chemist turned software developer who loves to test, build, and
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
 
-## 🧠 Currently Learning
-- 🇪🇸 Spanish (¡Hola! Soy química y me encanta programar.)  
+## 🧠 Currently Learning 
 - 🧪 Advanced testing techniques with Cypress  
 - ☁️ Amazon Web Services (AWS)
+- 🇪🇸 Spanish (¡Hola! Me encanta programar.) 
 
 
 ## 🌄 Fun Facts
