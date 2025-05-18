@@ -30,7 +30,6 @@ I'm a laboratory chemist turned developer who loves to test, build, and debug co
 ## 🌄 Fun Facts
 - 🏃‍♀️ Avid runner and proud cat mom 
 - 🏔️ Most at home in the Appalachian Mountains  
-- 💻 I genuinely love to code—whether it's building new features or squashing bugs
 
 
 ## 📫 Let's Connect!
